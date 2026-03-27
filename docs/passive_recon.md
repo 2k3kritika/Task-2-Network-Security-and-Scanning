@@ -333,7 +333,12 @@ Graph-based OSINT tool for visualizing relationships.
 
 # 🔎 10. Google Dorking
 
-Using advanced search queries to find sensitive information.
+Using advanced search queries to find sensitive information using google search engine.
+
+Sites used:
+- Google search
+- [Google hacking database](https://www.exploit-db.com/google-hacking-database)
+- [Dork search](https://dorksearch.com/)
 
 ---
 
@@ -341,9 +346,15 @@ Using advanced search queries to find sensitive information.
 
 ```bash
 site:example.com
-site:example.com filetype:pdf
+site:example.com filetype:pdf OR filetype:xlsx
 intitle:"index of"
 inurl:admin
+country: IN
+
+gaming laptops site:www.amazon.com
+site:www.amazon.com inurl: admin    //to get admin pages available on google
+
+
 ```
 
 ---
@@ -365,8 +376,9 @@ inurl:admin
 
 # 🌍 11. Shodan
 
-Search engine for internet-connected devices.
+Search engine for internet-connected devices that are available on the internet.
 
+site: **https://www.shodan.io/**
 ---
 
 ## 🔹 What It Finds
