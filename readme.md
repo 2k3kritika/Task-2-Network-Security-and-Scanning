@@ -180,7 +180,7 @@ Task2_Network_Scanning/
 │
 ├── reports/
 │   ├── nmap_report.txt
-│   └── openvas_report.pdf
+│   └── nessus_report.pdf
 │
 └── scripts/
 ```
@@ -189,7 +189,7 @@ Task2_Network_Scanning/
 
 ## 🎥 Demo Video
 
-📌 LinkedIn Video: [Task 2 Demonstration](**link**)
+📌 LinkedIn Video: [Task 2 Demonstration](https://www.linkedin.com/posts/kritika-sharma-0150b6396_cybersecurity-ethicalhacking-nmap-activity-7449148784342745088-QpGV?utm_source=share&utm_medium=member_android&rcm=ACoAAGEww5EBVvPI4u2oCblZQLHt_Y9Hl0saEIk)
 
 ---
 
